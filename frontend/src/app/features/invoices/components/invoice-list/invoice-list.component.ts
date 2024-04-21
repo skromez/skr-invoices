@@ -6,6 +6,6 @@ import { CommonModule } from '@angular/common';
   standalone: true,
   imports: [CommonModule],
   templateUrl: './invoice-list.component.html',
-  styleUrl: './invoice-list.component.css',
+  styleUrl: './invoice-list.component.scss',
 })
 export class InvoiceListComponent {}
